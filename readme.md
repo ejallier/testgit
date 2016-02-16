@@ -18,4 +18,5 @@ Ceci est un lien vers [Google](http://google.fr).
 
 ![un dalek](http://www.comicmix.com/wp-content/uploads/2012/12/Dalek.jpg)
 
-[Markdow sheat cheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+[Markdown sheat cheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+
